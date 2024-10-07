@@ -1,8 +1,11 @@
 remix 
 
-    Change the number of lines, or their colors.
-    Give each line a random color.
-    Make the animation look more like a mountain, or a city, or trees reflected in a pond.
+## todo
+1. Go through each block of code and explain what it does. Be specific with the arrays.
+2. Make it your own:
+    - Change the number of lines, or their colors.
+    - Give each line a random color.
+    - Make the animation look more like a mountain, or a city
 
 
 ```javascript
