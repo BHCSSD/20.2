@@ -7,6 +7,7 @@ Arrays are a fundamental part of programming, allowing us to store multiple valu
 - **Array Declaration**: You can declare arrays with `[]` and initialize them with values.
 - **Accessing Elements**: Use the index to retrieve or modify elements.
 - **Array Methods**: Use `.push()`, `.pop()`, and `.length` to manage your arrays.
+- **Item Removal**: Use `.splice()` to add or remove items for your array
 - **Loops and Arrays**: Loops are often used to iterate over arrays, especially in visual applications.
 
 ## videos for you
