@@ -3,6 +3,11 @@
 Arrays are a fundamental part of programming, allowing us to store multiple values in a single variable. In p5.js, arrays are useful for managing collections of data, such as coordinates, colors, or objects like sprites. 
 
 
+## videos for you
+- [arrays basics](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/1-arrays)
+- [arrays and loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/2-arrays-loops)
+
+
 ## Things you need to know by the end of the unit
 
 - **Array Declaration**: You can declare arrays with `[]` and initialize them with values.
